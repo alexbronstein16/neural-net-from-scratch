@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+mnist.npz
+
+# old figures no longer produced by the notebook
+figures/3_ConfMattrix.png
+figures/5_weights.png
